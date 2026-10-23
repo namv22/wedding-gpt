@@ -16,7 +16,7 @@ export const wedding = {
     milestones: [] as { date: string; title: string; description: string }[],
   },
   family: {
-    bride: { father: 'Ngô Mạnh Tiến', mother: 'Dung', address: '65/2/1/5, Đường 20, Phường Hiệp Bình, TP Thủ Đức' },
+    bride: { father: 'Ngô Mạnh Tiến', mother: 'Ngô Thị Thanh Dung', address: '65/2/1/5, Đường 20, Phường Hiệp Bình, TP Thủ Đức' },
     groom: { father: 'Vũ Tam Khôi', mother: 'Võ Kim Huệ', address: '186F/12A, Bình Thới, Phường Hoà Bình, TP. Hồ Chí Minh' },
   },
   venue: {
