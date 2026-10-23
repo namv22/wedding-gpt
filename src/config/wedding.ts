@@ -44,4 +44,4 @@ export const wedding = {
     description: 'Trân trọng kính mời bạn đến chung vui ngày 20.12.2026.',
     image: '/social-preview.jpg',
   },
-} as const
+}
