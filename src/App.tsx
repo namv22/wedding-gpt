@@ -1,7 +1,6 @@
 import { useEffect, useMemo, useState, type FormEvent } from "react";
 import {
   CalendarDays,
-  MapPin,
   Heart,
   Menu,
   X,
