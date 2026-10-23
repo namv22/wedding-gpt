@@ -14,7 +14,7 @@ import {
   ExternalLink,
 } from "lucide-react";
 import { wedding } from "./config/wedding";
-import heroArt from "./assets/illustrations/hero-couple.jpg";
+const heroArt = "/hero-couple.jpg";
 
 const dateLabel = new Intl.DateTimeFormat("vi-VN", {
   day: "numeric",
